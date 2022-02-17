@@ -1,6 +1,6 @@
 # Hotel-Management-System-CRUD
 
-Add CRUD_Group_20.sql dump File to MySQL Server First
+Add CRUD_Group_20.sql dump File to MySQL Server
 
 In Connection Package Open File JdbcConnection.java and Enter Your Username and Password Of Your MySQL Server
 
